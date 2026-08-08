@@ -1,0 +1,6 @@
+{
+  "name": "بيت الأثير للمقاولات",
+  "description": "الموقع الرسمي لمؤسسة بيت الأثير للمقاولات العامة - متخصصون في أعمال العظم والتشطيب وصيانة الفلل والعمائر ومقاولات الهناجر وتنسيق الحدائق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

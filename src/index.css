@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans Arabic", "Inter", "Cairo", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: "Noto Sans Arabic", "Inter", "Outfit", sans-serif;
+  --font-serif: "Amiri", serif;
+  
+  /* Primary blue (rich corporate blue) and wooden accent variables (bold premium look) */
+  --color-brand-blue-50: #f8fafc;
+  --color-brand-blue-100: #dbeafe;
+  --color-brand-blue-600: #1e40af;
+  --color-brand-blue-700: #1d4ed8;
+  --color-brand-blue-800: #1e40af;
+  --color-brand-blue-900: #1e3a8a;
+  --color-brand-blue-950: #172554;
+  
+  --color-wood-light: #fef3c7;
+  --color-wood-medium: #92400e;
+  --color-wood-dark: #78350f;
+  --color-wood-pale: #fffbeb;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+    background-color: #f8fafc;
+    color: #1e293b;
+  }
+}
+
+/* Bold Typography Utility Classes */
+.hero-text {
+  font-family: "Noto Sans Arabic", "Inter", sans-serif;
+  font-size: 4rem;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  font-weight: 900;
+  color: #1e40af;
+}
+
+@media (min-width: 640px) {
+  .hero-text {
+    font-size: 4.5rem;
+    line-height: 0.9;
+  }
+}
+
+.wood-border {
+  border-color: #92400e;
+}
+
+.wood-bg {
+  background-color: #92400e;
+}
+
+.wood-light {
+  background-color: #fef3c7;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f8fafc;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e40af;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #1d4ed8;
+}
+
+/* Custom subtle transitions */
+.transition-smooth {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
