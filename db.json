@@ -1,6 +1,6 @@
 {
   "settings": {
-    "adminPin": "ezzo",
+    "adminPin": "Ezzo",
     "whatsappNumber": "966568679494",
     "phone": "+966568679494",
     "email": "house.alatheer@gmail.com",
@@ -102,17 +102,95 @@
       "projectDate": "2024-06-05"
     },
     {
+      "id": "p8",
+      "titleAr": "إنشاء ملحق سكني وتوسعة مساحات فيلا",
+      "titleEn": "Residential Annex Construction & Villa Expansion",
+      "descAr": "تنفيذ ملحق سكني كامل بمساحة 150م تتضمن أساسات مسلحة وأعمدة وسقف هوردي بأحدث المواصفات وبنظام عزل مائي وحراري متكامل في حي الملقا.",
+      "descEn": "Execution of a full residential annex of 150m² including reinforced foundations, columns, and hollow block slab with complete water and thermal insulation systems in Al-Malqa district.",
       "category": "masonry",
+      "mediaUrl": "https://images.unsplash.com/photo-1531834685032-c34bf0d84c77?auto=format&fit=crop&w=800&q=80",
       "mediaType": "image",
-      "titleAr": "ezz",
-      "titleEn": "ezz",
-      "descAr": "xxxx",
-      "descEn": "x",
-      "workerNameAr": "ezz",
-      "workerNameEn": "ezz",
-      "mediaUrl": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=600&q=80",
-      "projectDate": "2026-06-16",
-      "id": "p_1781569167048"
+      "workerNameAr": "م. سعد الحربي",
+      "workerNameEn": "Eng. Saad Al-Harbi",
+      "projectDate": "2024-07-12"
+    },
+    {
+      "id": "p9",
+      "titleAr": "استبدال شبكة صرف متكاملة لفيلا سكنية",
+      "titleEn": "Complete Drainage Network Replacement for a Villa",
+      "descAr": "معالجة تسربات قديمة واستبدال شبكة الصرف بالكامل بأنابيب فاخرة مع تمديدات حرارية مزدوجة للحمامات والمطابخ واختبارات إحكام صارمة قبل التغطية.",
+      "descEn": "Fixing old leaks and completely replacing the drainage network with premium pipes, double hot/cold lines for bathrooms and kitchens, and strict pressure testing before coverage.",
+      "category": "plumbing",
+      "mediaUrl": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "image",
+      "workerNameAr": "الفني رشيد خان",
+      "workerNameEn": "Tech. Rasheed Khan",
+      "projectDate": "2024-08-20"
+    },
+    {
+      "id": "p10",
+      "titleAr": "تأسيس كهرباء لمول تجاري وأنظمة مخارج الطوارئ",
+      "titleEn": "Commercial Mall Electrical Installation & Emergency Systems",
+      "descAr": "تنفيذ التأسيسات الكهربائية الكاملة لمول تجاري مع أنظمة إنارة مخارج الطوارئ ولوحات التوزيع الرئيسية بمواصفات الدفاع المدني السعودي.",
+      "descEn": "Complete electrical installation for a commercial mall including emergency exit lighting systems and main distribution boards to Saudi Civil Defense specifications.",
+      "category": "electrical",
+      "mediaUrl": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "image",
+      "workerNameAr": "الفني وسيم إقبال",
+      "workerNameEn": "Tech. Waseem Iqbal",
+      "projectDate": "2024-09-05"
+    },
+    {
+      "id": "p11",
+      "titleAr": "تشطيب داخلي فاخر لصالة استقبال وقاعة طعام",
+      "titleEn": "Luxury Interior Finishing for Reception Hall & Dining Room",
+      "descAr": "أعمال الجبس المعلق المتكامل مع الإضاءة المخفية ودهانات بألوان ترابية فاخرة وأرضيات باركيه إيطالي راقية بلمسات تصميمية مميزة.",
+      "descEn": "Complete suspended gypsum ceilings with hidden lighting, sophisticated earth-tone paints, and premium Italian parquet flooring with distinctive design touches.",
+      "category": "finishing",
+      "mediaUrl": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "image",
+      "workerNameAr": "المعلم أبوعلي",
+      "workerNameEn": "Artisan Abu Ali",
+      "projectDate": "2024-10-15"
+    },
+    {
+      "id": "p12",
+      "titleAr": "تركيب مظلات مواقف سيارات حديدية",
+      "titleEn": "Steel Car Park Canopy Installation",
+      "descAr": "تصميم وتنفيذ مظلات مواقف حديدية بمساحات كبيرة مع طلاء إيبوكسي مقاوم للصدأ وعوازل حرارية علوية لتحمل الظروف الجوية الصحراوية.",
+      "descEn": "Design and execution of large steel parking canopies with rust-resistant epoxy coating and top thermal insulation built to withstand desert weather conditions.",
+      "category": "hangars",
+      "mediaUrl": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "image",
+      "workerNameAr": "م. محمد كمال",
+      "workerNameEn": "Eng. Mohamed Kamal",
+      "projectDate": "2024-11-10"
+    },
+    {
+      "id": "p13",
+      "titleAr": "تنسيق حدائق وتشجير لمجمع سكني",
+      "titleEn": "Landscaping & Greenery for a Residential Compound",
+      "descAr": "تصميم المسطحات الخضراء بنظام الري الآلي وإنشاء ممرات انترلوك ملونة وجلسات خارجية بإضاءة ليلية دافئة تبرز جمال التنسيق.",
+      "descEn": "Green landscape design with automated irrigation, colorful interlock walkways, and outdoor seating areas with warm night lighting that highlights the landscaping beauty.",
+      "category": "landscaping",
+      "mediaUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "image",
+      "workerNameAr": "الفني محمود بكر",
+      "workerNameEn": "Designer Mahmoud Bakr",
+      "projectDate": "2025-01-18"
+    },
+    {
+      "id": "p14",
+      "titleAr": "صيانة شاملة وتجديد مبنى إداري",
+      "titleEn": "Comprehensive Renovation of an Administrative Building",
+      "descAr": "أعمال صيانة شاملة لمبنى إداري تشمل معالجة الرطوبة والعزل وإعادة الدهانات الداخلية والخارجية واستبدال التمديدات التالفة بالكامل.",
+      "descEn": "Comprehensive maintenance of an administrative building including moisture treatment and insulation, interior and exterior repainting, and full replacement of damaged installations.",
+      "category": "maintenance",
+      "mediaUrl": "https://images.unsplash.com/photo-1581579438747-1dc8d17bbce4?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "image",
+      "workerNameAr": "م. خالد الرشيد",
+      "workerNameEn": "Eng. Khalid Al-Rasheed",
+      "projectDate": "2025-02-25"
     }
   ],
   "licenses": [

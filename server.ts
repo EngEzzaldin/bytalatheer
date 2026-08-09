@@ -8,7 +8,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const app = express();
-const PORT = 3000;
+const PORT = Number(process.env.PORT) || 3000;
 
 // Enable JSON parser with sufficient limit for base64 images if user uploads them
 app.use(express.json({ limit: "50mb" }));
@@ -19,7 +19,7 @@ const DB_FILE = path.join(process.cwd(), "db.json");
 // Default initial database content
 const defaultDb = {
   settings: {
-    adminPin: "1222", // Default secure PIN
+    adminPin: "Ezzo", // Default secure PIN
     whatsappNumber: "966568679494",
     phone: "+966568679494",
     email: "house.alatheer@gmail.com",
